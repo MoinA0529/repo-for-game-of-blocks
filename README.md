@@ -1,6 +1,9 @@
 # repo-for-game-of-blocks
 
 Hey, I have added line wise explanation for the code.
+This is text editor, which is with regard to a project I was doing with Prof. Debadatta of CSE dept.
+The project intended to create a Integrated development environment, this is implementation of less than half of the progress of the project,
+
 C is a object based language, I wish to take the project Game of Blocks, which requires OOP. I haven't used it in this project. Although I have tried some instances of Inheritance, Polymorphism etc.
 
 To run the application under the folder type the following in terminal
