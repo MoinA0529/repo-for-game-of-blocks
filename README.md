@@ -7,9 +7,15 @@ The project intended to create a Integrated development environment, this is imp
 C is a object based language, I wish to take the project Game of Blocks, which requires OOP. I haven't used it in this project. Although I have tried some instances of Inheritance, Polymorphism etc.
 
 To run the application under the folder type the following in terminal
+You may also need to install gcc and gtk library.
 
-`$ sh compile.sh editor`
-`$ ./editor`
+`sudo apt-get install libgtk-3-dev`
+`sudo apt-get install gtk+2.0`
+
+Then run the following commands
+
+`sh compile.sh editor`
+`./editor`
 
 I used the instructions from the following website, which contains concise resources for understanding and implementing basic glade application.
 https://prognotes.net/2016/03/gtk-3-c-code-hello-world-tutorial-using-glade-3/
