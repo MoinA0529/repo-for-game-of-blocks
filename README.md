@@ -10,7 +10,7 @@ To run the application under the folder type the following in terminal
 You may also need to install gcc and gtk library.
 
 `sudo apt-get install libgtk-3-dev`
-*or*
+*and*
 `sudo apt-get install gtk+2.0`
 
 Then run the following commands
